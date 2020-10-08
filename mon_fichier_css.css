@@ -1,18 +1,8 @@
-html {
-    background-color: green;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: red;
-    padding: 10px;
-    border: 1px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
-  }
-
-  h1 {
-    color: red;
-  }
+.time {
+  border: 0px;
+  vertical-align: top;
+  position: relative;
+  top: -13px;
+  font-weight: lighter;
+  text-align: right;
+}
