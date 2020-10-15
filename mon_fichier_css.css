@@ -6,3 +6,65 @@
   font-weight: lighter;
   text-align: right;
 }
+.day{
+  width:19%;
+}
+td {
+  text-align:center;
+}
+
+.white{
+  background-color: white;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+  background-color: rgb(119, 157, 241);
+}
+
+.min5{
+  height: 5px;
+}
+
+.min10{
+  height: 5px;
+}
+
+.min15{
+  height: 5px;
+}
+
+.min20{
+  height: 5px;
+}
+
+.min25{
+  height: 5px;
+}
+
+.min30{
+  height: 5px;
+}
+
+.min35{
+  height: 5px;
+}
+
+.min40{
+  height: 5px;
+}
+
+.min45{
+  height: 5px;
+}
+
+.min50{
+  height: 5px;
+}
+
+.min55{
+  height: 5px;
+}
